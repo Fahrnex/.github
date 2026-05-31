@@ -19,7 +19,7 @@ Fahrnex is a modern vehicle maintenance and fleet management platform that helps
 
 We are building a robust, secure, and highly scalable software platform to support businesses ranging from individual drivers to massive enterprise logistics fleets. 
 
-*   🌐 **Website:** [fahrnex.com](https://www.fahrnex.com)
+*   🌐 **Website:** [fahrnex.de](https://www.fahrnex.de)
 *   📱 **Follow Us on LinkedIn:** [@fahrnex](https://www.linkedin.com/company/fahrnex)
 *   📱 **Follow Us on Facebook:** [@fahrnex](https://www.facebook.com/fahrnex)
 *   📱 **Follow Us on X:** [@fahrnex](https://x.com/fahrnex)
