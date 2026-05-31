@@ -21,7 +21,7 @@ We are building a robust, secure, and highly scalable software platform to suppo
 
 *   🌐 **Website:** [fahrnex.com](https://www.fahrnex.com)
 *   📱 **Follow Us on LinkedIn:** [@fahrnex](https://www.linkedin.com/company/fahrnex)
-    📱 **Follow Us on Facebook:** [@fahrnex](https://www.facebook.com/fahrnex)
+*   📱 **Follow Us on Facebook:** [@fahrnex](https://www.facebook.com/fahrnex)
 *   📱 **Follow Us on X:** [@fahrnex](https://x.com/fahrnex)
 
 ---
